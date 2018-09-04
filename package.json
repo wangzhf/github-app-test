@@ -1,0 +1,19 @@
+{
+  "name": "github-app-test",
+  "version": "1.0.0",
+  "description": "Test the app from github Marketplace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzhf/github-app-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangzhf/github-app-test/issues"
+  },
+  "homepage": "https://github.com/wangzhf/github-app-test#readme"
+}
